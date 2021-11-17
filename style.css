@@ -133,5 +133,35 @@ rem
     background: #f5f5f5;
 }
 
+ .custom{
+    border-radius: 0;
+    color: #d0d0d0; 
+    background:#b8b8b8;
+    width:30%;
+    border:none;
+    padding: 10px;
+}
+
+.custom2{
+
+    color: #005c84;
+    background:#fff; 
+    width:20%;
+    padding: 10px;
+    border: 1px solid rgb(226, 223, 223);
+
+}
+
+.form-select form-select-lg:focus {
+    outline: 1px dashed red;
+  }
+
+  .line{
+      height: 1px;
+      background: rgb(218, 215, 215);
+      width: 100%;
+     
+  }
+
 
 
